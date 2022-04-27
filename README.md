@@ -1,7 +1,7 @@
 # New-Projet
 <html>
 <head>
-<link rel="stylesheet"href="style.css"/>
+<link rel="stylesheet"type="text/css"href="style.css"/>
 </head>
 <body>
 <strong>
