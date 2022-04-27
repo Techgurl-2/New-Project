@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css"/>
 </head>
 <body>
+<IMG src="Illustration-stay-productive"/>
 <strong>
 Stay productive, wherever you are
  </strong>
