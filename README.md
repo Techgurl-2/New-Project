@@ -1,7 +1,7 @@
 # New-Projet
 <html>
 <head>
-<link rel="stylesheet"type="text/css"href="style.css"/>
+<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css"/>
 </head>
 <body>
 <strong>
