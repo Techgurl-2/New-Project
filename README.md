@@ -8,7 +8,7 @@
 <strong>
 Stay productive, wherever you are
  </strong>
-<br/>
+<br/><br/>
 <p>Never let location be an issue when accessing your files.Fylo has you covered for all of your life storage needs. 
 </p>
 <p>securely share files and folders with friends, family and colleagues for life collaboration.No email attachment required. 
