@@ -15,7 +15,7 @@ Stay productive, wherever you are
 <a href="http//www.example.com">see how fylo works ➡️</a>
 </p>
 <br/><br/><br/><br/>
-<img src="download.png"/>
+<img src="download (2).png"/>
 <div>
 Fylo has improved our team productivity by an order of magnitude.Since making the switch our team has become a well oiled collaboration machine.
 <div/>
